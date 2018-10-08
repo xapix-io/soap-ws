@@ -31,7 +31,6 @@
         <module>soap-client</module>
         <module>soap-server</module>
         <module>soap-it</module>
-        <module>soap-examples</module>
         <module>soap-test</module>
     </modules>
 
@@ -387,12 +386,12 @@
 
     <repositories>
         <repository>
-            <id>reficio</id>
-            <url>http://repo.reficio.org/maven/</url>
+            <id>central</id>
+            <url>http://central.maven.org/maven2/</url>
         </repository>
         <repository>
             <id>eviware</id>
-            <url>http://www.eviware.com/repository/maven2/</url>
+            <url>http://smartbearsoftware.com/repository/maven2/</url>
         </repository>
         <repository>
             <id>jboss</id>
@@ -541,9 +540,9 @@
 
     <distributionManagement>
         <repository>
-            <id>reficio</id>
-            <name>Reficio Maven Repository</name>
-            <url>scp://${reficio.server}/var/www/repo/maven</url>
+            <id>clojars</id>
+            <name>Clojars repository</name>
+            <url>https://clojars.org/repo</url>
         </repository>
     </distributionManagement>
 

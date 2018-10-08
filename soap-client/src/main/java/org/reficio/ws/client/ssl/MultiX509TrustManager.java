@@ -26,7 +26,7 @@ import java.util.List;
 
 /**
  * @author: Tom Bujok (tom.bujok@gmail.com)
- * <p/>
+ * <p></p>
  * Reficio™ - Reestablish your software!
  * www.reficio.org
  */

@@ -22,7 +22,7 @@ import org.reficio.ws.client.core.SoapClient;
 
 /**
  * @author: Tom Bujok (tom.bujok@gmail.com)
- * <p/>
+ * <p></p>
  * Reficio™ - Reestablish your software!
  * www.reficio.org
  */
