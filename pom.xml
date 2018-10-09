@@ -390,16 +390,12 @@
             <url>http://central.maven.org/maven2/</url>
         </repository>
         <repository>
-            <id>eviware</id>
-            <url>http://smartbearsoftware.com/repository/maven2/</url>
-        </repository>
-        <repository>
             <id>jboss</id>
             <url>https://repository.jboss.org/nexus/content/repositories/deprecated/</url>
         </repository>
         <repository>
-            <id>servicemix</id>
-            <url>http://svn.apache.org/repos/asf/servicemix/m2-repo/</url>
+            <id>enonic</id>
+            <url>https://repo.enonic.com/public/</url>
         </repository>
 
     </repositories>
